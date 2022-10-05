@@ -11,6 +11,10 @@ body {
 	transition: background 500ms ease;
 }
 
+body {
+    background-color: greenyellow;
+}
+
 p, li {
 	font-size:  22px;
 	line-height: 30px;
