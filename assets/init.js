@@ -38,7 +38,7 @@ $(document).ready(function() {
 
     /* make a bug follow your cursor and resize */
 
-     $('body').append('<div id="follow">🦟</div>');
+     $('body').append('<div id="follow">🦍</div>');
      $(document).on("mousemove", function (event) {
          $('#follow').css({
              'font-size' : event.pageY/10+'px',
