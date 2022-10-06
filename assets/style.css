@@ -12,7 +12,7 @@ body {
 }
 
 body {
-    background-color: greenyellow;
+    background-color: magenta;
 }
 
 p, li {
@@ -61,4 +61,10 @@ body {
 
 #right-column {
 	background: #333;
+}
+
+#pic1 {
+  position: absolute;
+  margin-right: 100px;
+  top: 0px;
 }
