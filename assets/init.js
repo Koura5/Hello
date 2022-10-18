@@ -23,19 +23,19 @@ $(document).ready(function() {
     })
 
     /* random background color from an array */
-
+/*
     let colors = ['blue', 'red', 'green', 'purple', 'yellow']
      $('body').click(function(){
          var color = colors[Math.floor(Math.random() * colors.length)];
          $(this).css('background', color);
      });
-
+*/
     /* add a character to a list */
-
+ /*   
      $('li').mouseover(function(){
          $(this).append('👋');
      });
-
+*/
     /* make a bug follow your cursor and resize */
 
      $('body').append('<div id="follow">🦍</div>');
